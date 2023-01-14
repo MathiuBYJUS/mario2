@@ -1,0 +1,13 @@
+body
+{
+    background-image: url(background.jpg);
+}
+
+
+#boton
+{
+    background-color: blue;
+    font-size: 20;
+    border-radius: 10px;
+    padding:5px;
+}
